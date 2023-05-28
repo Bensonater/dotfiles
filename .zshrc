@@ -12,7 +12,6 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-
 autoload -Uz vcs_info
 precmd() { vcs_info }
 
