@@ -11,6 +11,7 @@
   "files.autoSave": "afterDelay",
   "git.autofetch": true,
   "git.confirmSync": false,
+  "git.enableSmartCommit": true,
   "security.workspace.trust.enabled": false,
   "terminal.integrated.defaultProfile.linux": "zsh",
   "terminal.integrated.fontFamily": "SF Mono Regular",
