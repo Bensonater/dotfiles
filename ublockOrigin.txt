@@ -1,0 +1,41 @@
+{
+  "timeStamp": 1693221352311,
+  "version": "1.51.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "externalLists": "https://easylist-downloads.adblockplus.org/easylistchina.txt\nhttps://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+    "importedLists": [
+      "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+      "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+    ],
+    "popupPanelSections": 31,
+    "showIconBadge": false
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy"
+  ],
+  "hiddenSettings": {
+    "userResourcesLocation": "https://github.com/pixeltris/TwitchAdSolutions/raw/e80025cbd1eef78f3c609eaff8d5f934abcc9cf8/vaft/vaft-ublock-origin.js"
+  },
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "https://www.nytimes.com/vi-assets/static-assets/main*\n\n! 2023-02-28 https://www.reddit.com\nwww.reddit.com##._25n1vjWrHyVcdDkuLwR2Y-\nwww.reddit.com##._12Ewyh01Y1cMPB3Ri_F1C4\n\n\nlogin.taobao.com##div.quick-form:has(.qrcode-login)\nlogin.taobao.com#$##J_StaticForm{display:block!important;}\n"
+}
